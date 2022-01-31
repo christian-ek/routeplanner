@@ -1,0 +1,10 @@
+no/routeplanner/finder/model/Route.class
+no/routeplanner/finder/model/ShortestRoute$ShortestRouteBuilder.class
+no/routeplanner/finder/service/RouteLoaderService.class
+no/routeplanner/finder/model/ShortestRoute.class
+no/routeplanner/finder/model/BusStop.class
+no/routeplanner/finder/model/Route$RouteBuilder.class
+no/routeplanner/finder/service/ShortestRouteService.class
+no/routeplanner/finder/api/RouteApiController.class
+no/routeplanner/finder/service/RouteLoaderService$FileContent.class
+no/routeplanner/finder/RoutePlanner.class
